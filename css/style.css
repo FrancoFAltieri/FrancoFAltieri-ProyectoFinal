@@ -1,0 +1,31 @@
+* { margin: 0px;
+    padding: 0px;
+}
+    
+  
+  a {
+    text-decoration: none;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+  }
+  
+  ul {
+    list-style: none;
+    }
+header {
+    background-color: rgb(138, 129, 0);
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  
+  .titulo {
+    font-size: 2em;
+    }
+
+  .imagen {
+    margin-left: 20px;
+  }
+
+
